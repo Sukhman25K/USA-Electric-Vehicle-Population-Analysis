@@ -81,7 +81,7 @@ def ShowMenu():
     print("4. Show car age range chart")
     print("5. Show model distribution pie chart")
     print("6. Get averages")
-    print("6. Exit")
+    print("7. Exit")
 
 
 if __name__ == '__main__':
